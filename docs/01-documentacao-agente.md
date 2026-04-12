@@ -1,21 +1,20 @@
-# Documentação do Agente
+FINANCE RICH DOCUMENTACION
 
 ## Caso de Uso
 
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Está destinado a orientar pesssoas em modelos de investimento no mercado financeiro que melhor atenda sua realidade financeira.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
-
-[Sua descrição aqui]
+busca as melhores soluções de mercado avaliando tempo de investimento,riscos e instituições financeiras.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Desenvolvido para auxiliar investidores iniciantes e estudantes do mercado financeiro.
 
 ---
 
@@ -26,13 +25,12 @@
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
-
-[Sua descrição aqui]
+se comporta de forma forma consultiva sem aferir nenhuma instituição de preferência.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Possui um tom formal e acessível.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
@@ -78,4 +76,4 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+O agente está programado dentro das polittica e diretrizes da Leis de Proteção geral de Dados.
